@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "908312819480",
+    "project_id": "realtime-chat-f7431",
+    "storage_bucket": "realtime-chat-f7431.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908312819480:android:2b25781ad3ab44041a506d",
+        "android_client_info": {
+          "package_name": "com.example.realtimechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "908312819480-lfvmc8j731h9b9kpgif18lopmvm7mbqa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7p6TyKV9PAjxN2FvGljjMDJ0NKbHVmd8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "908312819480-lfvmc8j731h9b9kpgif18lopmvm7mbqa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/android/RealTimeChat/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1275" />
+        <entry key="..\:/android/RealTimeChat/app/src/main/res/drawable/bg_edit_text.xml" value="0.176" />
+        <entry key="..\:/android/RealTimeChat/app/src/main/res/drawable/bg_reciever.xml" value="0.142" />
+        <entry key="..\:/android/RealTimeChat/app/src/main/res/drawable/bg_sender.xml" value="0.142" />
+        <entry key="..\:/android/RealTimeChat/app/src/main/res/drawable/btn_bg.xml" value="0.1795" />
+        <entry key="..\:/android/RealTimeChat/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1275" />
+        <entry key="..\:/android/RealTimeChat/app/src/main/res/drawable/linear_bg.xml" value="0.1795" />
+        <entry key="..\:/android/RealTimeChat/app/src/main/res/layout/activity_chat_detail.xml" value="0.16666666666666666" />
+        <entry key="..\:/android/RealTimeChat/app/src/main/res/layout/activity_group_chat.xml" value="0.1796875" />
+        <entry key="..\:/android/RealTimeChat/app/src/main/res/layout/activity_main.xml" value="0.1796875" />
+        <entry key="..\:/android/RealTimeChat/app/src/main/res/layout/activity_settings.xml" value="0.24520255863539445" />
+        <entry key="..\:/android/RealTimeChat/app/src/main/res/layout/activity_sign_in.xml" value="0.22" />
+        <entry key="..\:/android/RealTimeChat/app/src/main/res/layout/activity_sign_up.xml" value="0.22" />
+        <entry key="..\:/android/RealTimeChat/app/src/main/res/layout/fragment_call.xml" value="0.1796875" />
+        <entry key="..\:/android/RealTimeChat/app/src/main/res/layout/fragment_chats_fragments.xml" value="0.1796875" />
+        <entry key="..\:/android/RealTimeChat/app/src/main/res/layout/fragment_status.xml" value="0.165625" />
+        <entry key="..\:/android/RealTimeChat/app/src/main/res/layout/sample_reciever.xml" value="0.3333333333333333" />
+        <entry key="..\:/android/RealTimeChat/app/src/main/res/layout/sample_sender.xml" value="0.3333333333333333" />
+        <entry key="..\:/android/RealTimeChat/app/src/main/res/layout/sample_show_user.xml" value="0.3333333333333333" />
+        <entry key="..\:/android/RealTimeChat/app/src/main/res/menu/menu.xml" value="0.1796875" />
+        <entry key="..\:/android/RealTimeChat/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/android/RealTimeChat/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1195" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
